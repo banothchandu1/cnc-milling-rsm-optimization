@@ -1,0 +1,21 @@
+{
+    "Baseline_N_RPM": 2500.0,
+    "Baseline_f_mm_min": 350.0,
+    "Baseline_ap_mm": 1.25,
+    "Baseline_Ra_um": 1.418,
+    "Baseline_Vb_mm": 0.152,
+    "Baseline_MRR_cm3_min": 2.19,
+    "Baseline_Cycle_Time_s": 18.86,
+    "Baseline_Power_kW": 0.858,
+    "Optimized_N_RPM": 2828.3,
+    "Optimized_f_mm_min": 200.0,
+    "Optimized_ap_mm": 1.04,
+    "Optimized_Ra_um": 1.177,
+    "Optimized_Vb_mm": 0.154,
+    "Optimized_MRR_cm3_min": 1.04,
+    "Optimized_Cycle_Time_s": 33.0,
+    "Optimized_Power_kW": 0.483,
+    "Percentage_Ra_Reduction": 17.0,
+    "Model_Ra_R2": 0.9996,
+    "Model_Ra_Adj_R2": 0.9993
+}
