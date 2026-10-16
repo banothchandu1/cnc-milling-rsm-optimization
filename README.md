@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Institution: NIT Hamirpur](https://img.shields.io/badge/NIT%20Hamirpur-Mechanical%20Eng-green.svg)](https://nith.ac.in)
 
-**Author:** Banoth Chandu Nayak  
+**Author:** Banoth Chandu  
 **Department:** Mechanical Engineering, National Institute of Technology Hamirpur  
 **Domain:** Manufacturing Engineering, CNC Machining Optimization, Design of Experiments (DOE)  
 **Academic Period:** January 2026 – May 2026  
