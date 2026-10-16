@@ -1,0 +1,2 @@
+Baseline_N_RPM,Baseline_f_mm_min,Baseline_ap_mm,Baseline_Ra_um,Baseline_Vb_mm,Baseline_MRR_cm3_min,Baseline_Cycle_Time_s,Baseline_Power_kW,Optimized_N_RPM,Optimized_f_mm_min,Optimized_ap_mm,Optimized_Ra_um,Optimized_Vb_mm,Optimized_MRR_cm3_min,Optimized_Cycle_Time_s,Optimized_Power_kW,Percentage_Ra_Reduction,Model_Ra_R2,Model_Ra_Adj_R2
+2500.0,350.0,1.25,1.418,0.152,2.19,18.86,0.858,2828.3,200.0,1.04,1.177,0.154,1.04,33.0,0.483,17.0,0.9996,0.9993
